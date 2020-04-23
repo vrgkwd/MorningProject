@@ -11,4 +11,7 @@ public class Utility {
 	 public void m1() {
 		 System.out.println("Utility.m1() added");
 	 }
+	 public void m2() {
+		 System.out.println("Utility.m2() added");
+	 }
 }
