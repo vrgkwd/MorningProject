@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	       System.out.println(u.getSysDate());
 	       u.m1();
 	       u.m2();
+	       u.m3();
 }
 }
