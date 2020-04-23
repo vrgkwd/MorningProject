@@ -9,5 +9,6 @@ public static void main(String[] args) {
 	       u.m2();
 	       u.m3();
 	       u.m4();
+	       u.m5();
 }
 }
