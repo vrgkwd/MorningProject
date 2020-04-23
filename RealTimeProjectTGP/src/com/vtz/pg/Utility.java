@@ -8,4 +8,7 @@ public class Utility {
 		 System.out.println("from STS_new");
 		 return new Date();
 	 }
+	 public void m1() {
+		 System.out.println("Utility.m1() added");
+	 }
 }
